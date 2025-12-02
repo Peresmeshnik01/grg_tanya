@@ -1,0 +1,3 @@
+Added Component: Designator=R5(Резистор)
+Added Pin To Net: NetName=NetC1_1 Pin=R5-2
+Added Member To Class: ClassName=Sheet1 Member=Component R5 9.1к

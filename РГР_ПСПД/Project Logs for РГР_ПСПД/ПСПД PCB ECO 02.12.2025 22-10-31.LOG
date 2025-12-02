@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=DD4-7
+Removed Pin From Net: NetName=NetDD3_2 Pin=DD4-12
+Removed Pin From Net: NetName=NetDD2_10 Pin=DD4-13
+Removed Pin From Net: NetName=+6 Pin=DD4-14
+Removed Pin From Net: NetName=NetC3_2 Pin=DD6-3
+Removed Pin From Net: NetName=NetDD3_10 Pin=DD6-4
+Removed Pin From Net: NetName=NetDD3_12 Pin=DD8-1
+Removed Pin From Net: NetName=Out1 Pin=DD8-2
+Removed Pin From Net: NetName=Out2 Pin=DD8-3
+Removed Pin From Net: NetName=Out4 Pin=DD8-4
+Removed Pin From Net: NetName=Out5 Pin=DD8-5
+Removed Member From Class: ClassName=Sheet1 Member=DD8
+Change Component Comment : Designator=DD4 Old Comment=SN74HC27N New Comment=CD4025BE
+Change Component Designator: OldDesignator=DD7 NewDesignator=DD6
+Added Component: Designator=DD7(DIP-14)
+Added Pin To Net: NetName=NetC3_2 Pin=DD4-3
+Added Pin To Net: NetName=NetDD3_10 Pin=DD4-4
+Added Pin To Net: NetName=NetDD2_10 Pin=DD4-8
+Added Pin To Net: NetName=NetDD3_2 Pin=DD4-9
+Added Pin To Net: NetName=NetDD3_12 Pin=DD7-1
+Added Pin To Net: NetName=Out1 Pin=DD7-2
+Added Pin To Net: NetName=Out2 Pin=DD7-3
+Added Pin To Net: NetName=Out4 Pin=DD7-4
+Added Pin To Net: NetName=Out5 Pin=DD7-5
+Added Pin To Net: NetName=GND Pin=DD7-7
+Added Pin To Net: NetName=+6 Pin=DD7-14
+Added Pin To Net: NetName=NetDD4_5 Pin=DD4-5
+Added Pin To Net: NetName=NetDD4_5 Pin=DD5-3
+Added Net: Name=NetDD4_5
+Added Pin To Net: NetName=NetDD4_6 Pin=DD4-6
+Added Pin To Net: NetName=NetDD4_6 Pin=DD6-11
+Added Net: Name=NetDD4_6
