@@ -1,0 +1,28 @@
+Change component parameters: Designator = "HL1" ("HL1"); Footprint = "LED: 0603G"; UniqueID = "\AYYHVFBW" ("\AYYHVFBW")
+Change component parameters (AddParameter): Name = "Наименование"; Value = "FYLS-0603UGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL2" ("HL2"); Footprint = "LED: 0603G"; UniqueID = "\JDOQWKAW" ("\JDOQWKAW")
+Change component parameters (AddParameter): Name = "Наименование"; Value = "FYLS-0603UGC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES: 0402"; UniqueID = "\HPYVWMBD" ("\HPYVWMBD")
+Change component parameters (AddParameter): Name = "Наименование"; Value = "0402 470 Ом ±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES: 0402"; UniqueID = "\DMTXARXD" ("\DMTXARXD")
+Change component parameters (AddParameter): Name = "Наименование"; Value = "0402 470 Ом ±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "DIODE: SOD523"; UniqueID = "\UACWSAHS" ("\UACWSAHS")
+Change component parameters (AddParameter): Name = "Наименование"; Value = "ESDSLC5V0D5B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD5" ("VD5"); Footprint = "DIODE: SOD523"; UniqueID = "\YYVGAKGQ" ("\YYVGAKGQ")
+Change component parameters (AddParameter): Name = "Наименование"; Value = "ESDSLC5V0D5B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XS1" ("XS1"); Footprint = "CON: USB-B-R"; UniqueID = "\UTUUWTXB" ("\UTUUWTXB")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""USB""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/molex/0675031020/WM5461CT-ND/1624427"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0675031020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "USB mini B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "USB mini B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Наименование"; Value = "USB-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=Sheet2 New Net Name=Конвертер USB-RS232 v1.0

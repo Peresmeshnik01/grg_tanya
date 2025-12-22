@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RX Pin=DD2-9
+Removed Pin From Net: NetName=TX Pin=DD2-11
+Removed Pin From Net: NetName=RS232_TXD Pin=R3-1
+Removed Pin From Net: NetName=RS232_RXD Pin=R4-1
+Removed Pin From Net: NetName=RS232_RXD Pin=VT1-1
+Removed Pin From Net: NetName=RS232_TXD Pin=VT2-1
+Added Pin To Net: NetName=TX Pin=DD2-9
+Added Pin To Net: NetName=RX Pin=DD2-11
+Added Pin To Net: NetName=RS232_RXD Pin=R3-1
+Added Pin To Net: NetName=RS232_TXD Pin=R4-1
+Added Pin To Net: NetName=RS232_TXD Pin=VT1-1
+Added Pin To Net: NetName=RS232_RXD Pin=VT2-1
+Change Net Name : Old Net Name=RS232_RXD New Net Name=RS232_TXD
+Change Net Name : Old Net Name=RS232_TXD New Net Name=RS232_RXD
